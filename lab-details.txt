@@ -1,7 +1,7 @@
 http://20.25.79.4
 http://vmkafka.eastus.cloudapp.azure.com/
 
-1bc045aebdbb768b811abee1afd77036f6885c02a6f226a7
+2c29afa5cea45b00e9401667da643f298de02a5918beb736
 
 https://portal.azure.com/
 
