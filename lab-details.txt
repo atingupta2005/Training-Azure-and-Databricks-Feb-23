@@ -1,4 +1,6 @@
-http://20.25.79.4:8888/
+http://20.25.79.4
+http://vmkafka.eastus.cloudapp.azure.com/
+
 1bc045aebdbb768b811abee1afd77036f6885c02a6f226a7
 
 https://portal.azure.com/
